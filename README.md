@@ -37,6 +37,3 @@
 1. 필요한 라이브러리를 설치합니다: `pip install requests beautifulsoup4`
 2. 스크립트를 실행합니다: `python genie_chart_scraper.py`
 
-## 라이선스
-
-이 프로젝트는 [라이선스 이름]에 따라 라이선스가 부여됩니다.
